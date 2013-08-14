@@ -1,7 +1,2 @@
-Test
-====
+Mierdas
 
-
-Ola k ase
-
-Git o k ase
